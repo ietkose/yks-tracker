@@ -31,8 +31,8 @@ Since this project targets the Turkish education system (YKS), the command-line 
 
 * `main.c`: The source code containing all logic and menu functions.
 * `data.txt`: Stores the daily logs.
-  -> **Format:** `tyt_soru ayt_soru calisma_saati`
-  -> **Description:** Columns represent TYT Question Count, AYT Question Count, and Study Hours respectively.
+  * **Format:** `tyt_soru ayt_soru calisma_saati`
+  * **Description:** Columns represent TYT Question Count, AYT Question Count, and Study Hours respectively.
 
 ## Tech Stack
 
