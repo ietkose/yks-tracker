@@ -53,7 +53,6 @@ gcc main.c -o tracker
 
 >**Windows:**
 ```bash
-DOS
 tracker.exe
 ```
 
@@ -109,7 +108,6 @@ gcc main.c -o tracker
 
 > **Windows:**
 ```bash
-DOS
 tracker.exe
 ```
 
