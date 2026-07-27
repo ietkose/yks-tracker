@@ -115,3 +115,8 @@ tracker.exe
 
 ### 📜 Lisans
 Bu proje MIT lisansı altında lisanslanmıştır.
+
+﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌﹌
+
+## Sample Image / Örnek Görsel
+<img width="1461" height="711" alt="yks_tracker" src="https://github.com/user-attachments/assets/71284945-6361-4f94-84dc-2b2f06043609" />
